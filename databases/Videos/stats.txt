@@ -1,0 +1,359 @@
+<2020-05-20 16:48:42> $youtube https://www.youtube.com/watch?v=C0DPdy98e4c
+<2020-05-20 16:48:58> $youtube https://www.youtube.com/watch?v=C0DPdy98e4c
+<2020-05-20 16:49:41> $youtube https://www.youtube.com/watch?v=Wch3gJG2GJ4
+<2020-05-20 16:49:42> 
+<2020-05-20 16:51:18> $youtube https://www.youtube.com/watch?v=Bey4XXJAqS8
+<2020-05-20 16:51:19> 
+<2020-05-20 16:52:58> $youtube r'F:\the desktop\UglyBot(new)\databases\Videos\video1.mp4'
+<2020-05-20 16:53:07> $download https://www.youtube.com/watch?v=Bey4XXJAqS8
+<2020-05-20 16:54:49> $youtube https://www.youtube.com/watch?v=Bey4XXJAqS8
+<2020-05-20 16:55:19> looks like my bot got request banned for using a video that was too big
+<2020-05-20 16:55:32> $help
+<2020-05-20 16:57:40> $youtube https://www.youtube.com/watch?v=gx695sJlhlU
+<2020-05-20 17:01:01> $youtube https://www.youtube.com/watch?v=gx695sJlhlU
+<2020-05-20 17:06:55> ?testgreet
+<2020-05-20 17:06:55> 
+<2020-05-20 17:06:56> Failed to send greet message: HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In embed.thumbnail.url: Not a well formed URL.
+<2020-05-20 17:06:56> <<No farewell message>>
+<2020-05-20 17:06:56> <<No ban message>>
+<2020-05-20 17:07:00> <<No dm message>>
+<2020-05-20 17:08:10> c!testgreet
+<2020-05-20 17:08:10> 
+<2020-05-20 17:08:10> GG <@!635196686930542614>, you just advanced to level 1!
+<2020-05-20 17:08:11> 
+<2020-05-20 17:08:11> <<No farewell message>>
+<2020-05-20 17:08:11> <<No ban message>>
+<2020-05-20 17:08:11> <<No dm message>>
+<2020-05-20 17:10:03> ?testgreet
+<2020-05-20 17:10:03> 
+<2020-05-20 17:10:03> 
+<2020-05-20 17:10:03> <<No farewell message>>
+<2020-05-20 17:10:03> <<No ban message>>
+<2020-05-20 17:10:03> <<No dm message>>
+<2020-05-20 17:10:10> Nice
+<2020-05-20 17:10:29> ?testgreet
+<2020-05-20 17:10:29> 
+<2020-05-20 17:10:29> 
+<2020-05-20 17:10:29> <<No farewell message>>
+<2020-05-20 17:10:29> <<No ban message>>
+<2020-05-20 17:10:29> <<No dm message>>
+<2020-05-20 17:12:23> ?testgreet
+<2020-05-20 17:12:23> 
+<2020-05-20 17:12:23> 
+<2020-05-20 17:12:23> 
+<2020-05-20 17:12:24> <<No ban message>>
+<2020-05-20 17:12:24> <<No dm message>>
+<2020-05-20 17:12:55> ?tesgeeet
+<2020-05-20 17:13:02> ?testgreet
+<2020-05-20 17:13:02> 
+<2020-05-20 17:13:02> 
+<2020-05-20 17:13:02> 
+<2020-05-20 17:13:02> <<No ban message>>
+<2020-05-20 17:13:02> <<No dm message>>
+<2020-05-20 17:13:30> ?testgreet
+<2020-05-20 17:13:30> 
+<2020-05-20 17:13:30> 
+<2020-05-20 17:13:30> 
+<2020-05-20 17:13:30> <<No ban message>>
+<2020-05-20 17:13:30> <<No dm message>>
+<2020-05-20 17:15:13> ?clear
+<2020-05-20 17:15:19> oop
+<2020-05-20 17:20:34> $download https://www.youtube.com/watch?v=gx695sJlhlU
+<2020-05-20 17:21:09> $help
+<2020-05-20 17:21:09> 
+<2020-05-20 17:21:09> API COMMANDS
+<2020-05-20 17:21:09> Joke, Panda, Dog
+<2020-05-20 17:21:16> $youtube https://www.youtube.com/watch?v=gx695sJlhlU
+<2020-05-20 17:38:22> $youtube https://www.youtube.com/watch?v=gx695sJlhlU
+<2020-05-20 17:38:25> $youtube https://www.youtube.com/watch?v=gx695sJlhlU
+<2020-05-20 17:38:26> $youtube https://www.youtube.com/watch?v=gx695sJlhlU
+<2020-05-20 17:38:27> $youtube https://www.youtube.com/watch?v=gx695sJlhlU
+<2020-05-20 17:38:29> $help
+<2020-05-20 17:38:29> $help
+<2020-05-20 17:38:30> 
+<2020-05-20 17:38:30> 
+<2020-05-20 17:38:30> API COMMANDS
+<2020-05-20 17:38:30> API COMMANDS
+<2020-05-20 17:38:30> Joke, Panda, Dog
+<2020-05-20 17:38:30> Joke, Panda, Dog
+<2020-05-20 17:38:37> $youtube https://www.youtube.com/watch?v=gx695sJlhlU
+<2020-05-20 17:38:39> $youtube https://www.youtube.com/watch?v=gx695sJlhlU
+<2020-05-20 17:38:46> 
+<2020-05-20 17:38:46> 
+<2020-05-20 17:38:55> API COMMANDS
+<2020-05-20 17:38:55> API COMMANDS
+<2020-05-20 17:38:55> Joke, Panda, Dog
+<2020-05-20 17:38:55> Joke, Panda, Dog
+<2020-05-20 17:40:15> $youtube https://www.youtube.com/watch?v=Wch3gJG2GJ4
+<2020-05-20 17:40:15> $youtube https://www.youtube.com/watch?v=Wch3gJG2GJ4
+<2020-05-20 17:43:06> $youtube https://youtu.be/kvO_nHnvPtQ
+<2020-05-20 17:43:06> $youtube https://youtu.be/kvO_nHnvPtQ
+<2020-05-20 17:46:05> $youtube https://youtu.be/kvO_nHnvPtQ
+<2020-05-20 17:46:06> $youtube https://youtu.be/kvO_nHnvPtQ
+<2020-05-20 17:46:06> 
+<2020-05-20 17:46:06> 
+<2020-05-20 18:15:33> $youtube https://youtu.be/kvO_nHnvPtQ
+<2020-05-20 18:15:35> $youtube https://youtu.be/kvO_nHnvPtQ
+<2020-05-20 18:17:22> $youtube https://youtu.be/kvO_nHnvPtQ
+<2020-05-20 18:17:24> $youtube https://youtu.be/kvO_nHnvPtQ
+<2020-05-20 18:17:24> 
+<2020-05-20 18:17:24> 
+<2020-05-20 18:17:52> $youtube https://www.youtube.com/watch?v=OOA6md726Qk
+<2020-05-20 18:17:54> $youtube https://www.youtube.com/watch?v=OOA6md726Qk
+<2020-05-20 18:17:55> 
+<2020-05-20 18:17:55> 
+<2020-05-20 20:04:09> $warn <@!372189580968853504> test warn
+<2020-05-20 20:04:10> you have been warned <@372189580968853504>
+<2020-05-20 20:04:10> $warn <@!372189580968853504> test warn
+<2020-05-20 20:04:10> you have been warned <@372189580968853504>
+<2020-05-20 20:04:10> reason: test warn
+<2020-05-20 20:04:10> reason: test warn
+<2020-05-20 20:04:11> yo stop being bad and breaking the rules
+<2020-05-20 20:04:11> yo stop being bad and breaking the rules
+<2020-05-20 20:07:32> $warn <@!372189580968853504> test
+<2020-05-20 20:07:32> $warn <@!372189580968853504> test
+<2020-05-20 20:07:32> yo stop being bad and breaking the rules
+<2020-05-20 20:07:32> yo stop being bad and breaking the rules
+<2020-05-20 20:07:32> 
+<2020-05-20 20:07:34> yo stop being bad and breaking the rules
+<2020-05-20 20:07:34> 
+<2020-05-20 20:07:34> 
+<2020-05-20 20:07:34> yo stop being bad and breaking the rules
+<2020-05-20 20:07:34> 
+<2020-05-20 20:09:03> $warn <@!372189580968853504>
+<2020-05-20 20:09:03> $warn <@!372189580968853504>
+<2020-05-20 20:09:09> $warn <@!372189580968853504> 34
+<2020-05-20 20:09:09> $warn <@!372189580968853504> 34
+<2020-05-20 20:09:09> 
+<2020-05-20 20:09:09> 
+<2020-05-20 20:09:10> yo stop being bad and breaking the rules
+<2020-05-20 20:09:10> yo stop being bad and breaking the rules
+<2020-05-20 20:09:10> 
+<2020-05-20 20:09:10> 
+<2020-05-20 20:09:23> $youtube https://www.youtube.com/watch?v=OOA6md726Qk
+<2020-05-20 20:09:23> $youtube https://www.youtube.com/watch?v=OOA6md726Qk
+<2020-05-20 20:09:29> 
+<2020-05-20 20:09:29> 
+<2020-05-20 20:09:29> 
+<2020-05-20 20:09:36> yeet
+<2020-05-20 20:09:36> yeet
+<2020-05-20 20:12:13> $spam <@!372189580968853504>
+<2020-05-20 20:12:13> $spam <@!372189580968853504>
+<2020-05-20 20:12:13> $spam <@!372189580968853504>
+<2020-05-20 20:12:13> spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam  spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam  spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam !!
+<2020-05-20 20:12:14> https://media.giphy.com/media/l0IylR4JqKHLjaP60/giphy.gif
+<2020-05-20 20:12:15> spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam  spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam  spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam !!
+<2020-05-20 20:12:15> spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam  spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam  spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam !!
+<2020-05-20 20:12:15> spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam  spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam  spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam !!
+<2020-05-20 20:12:15> spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam  spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam  spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam !!
+<2020-05-20 20:12:15> https://media.giphy.com/media/l0IylR4JqKHLjaP60/giphy.gif
+<2020-05-20 20:12:15> spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam  spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam  spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam !!
+<2020-05-20 20:12:15> spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam  spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam  spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam !!
+<2020-05-20 20:12:15> spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam  spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam  spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam !!
+<2020-05-20 20:12:15> spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam  spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam  spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam !!
+<2020-05-20 20:12:15> https://media.giphy.com/media/l0IylR4JqKHLjaP60/giphy.gif
+<2020-05-20 20:12:15> spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam  spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam  spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam !!
+<2020-05-20 20:12:15> spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam  spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam  spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam !!
+<2020-05-20 20:12:15> spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam  spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam  spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam !!
+<2020-05-20 20:12:19> https://media.giphy.com/media/l0IylR4JqKHLjaP60/giphy.gif
+<2020-05-20 20:12:19> https://media.giphy.com/media/l0IylR4JqKHLjaP60/giphy.gif
+<2020-05-20 20:12:19> https://media.giphy.com/media/l0IylR4JqKHLjaP60/giphy.gif
+<2020-05-20 20:12:19> https://media.giphy.com/media/l0IylR4JqKHLjaP60/giphy.gif
+<2020-05-20 20:12:19> https://media.giphy.com/media/l0IylR4JqKHLjaP60/giphy.gif
+<2020-05-20 20:12:19> https://media.giphy.com/media/l0IylR4JqKHLjaP60/giphy.gif
+<2020-05-20 20:12:19> spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam  spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam  spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam !!
+<2020-05-20 20:12:19> spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam  spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam  spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam !!
+<2020-05-20 20:12:19> spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam  spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam  spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam !!
+<2020-05-20 20:12:19> spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam  spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam  spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam !!
+<2020-05-20 20:12:19> spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam  spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam  spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam !!
+<2020-05-20 20:12:19> spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam  spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam  spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam !!
+<2020-05-20 20:12:19> https://media.giphy.com/media/l0IylR4JqKHLjaP60/giphy.gif
+<2020-05-20 20:12:19> https://media.giphy.com/media/l0IylR4JqKHLjaP60/giphy.gif
+<2020-05-20 20:12:19> https://media.giphy.com/media/l0IylR4JqKHLjaP60/giphy.gif
+<2020-05-20 20:12:24> https://media.giphy.com/media/l0IylR4JqKHLjaP60/giphy.gif
+<2020-05-20 20:12:24> https://media.giphy.com/media/l0IylR4JqKHLjaP60/giphy.gif
+<2020-05-20 20:12:24> https://media.giphy.com/media/l0IylR4JqKHLjaP60/giphy.gif
+<2020-05-20 20:12:24> https://media.giphy.com/media/l0IylR4JqKHLjaP60/giphy.gif
+<2020-05-20 20:12:24> https://media.giphy.com/media/l0IylR4JqKHLjaP60/giphy.gif
+<2020-05-20 20:12:35> $clean
+<2020-05-20 20:12:35> $clean
+<2020-05-20 20:12:40> $delete
+<2020-05-20 20:12:40> $delete
+<2020-05-20 20:12:42> $delete
+<2020-05-20 20:12:42> $delete
+<2020-05-20 20:12:45> $delete
+<2020-05-20 20:12:45> $delete
+<2020-05-20 20:12:47> $delete
+<2020-05-20 20:12:47> $delete
+<2020-05-20 20:12:50> $delete
+<2020-05-20 20:12:50> $delete
+<2020-05-20 20:12:53> $delete
+<2020-05-20 20:12:53> $delete
+<2020-05-20 20:12:54> $delete
+<2020-05-20 20:12:54> $delete
+<2020-05-20 20:12:54> $delete
+<2020-05-20 20:12:54> $delete
+<2020-05-20 20:13:09> $dmspam <@!372189580968853504>
+<2020-05-20 20:13:11> $dmspam <@!372189580968853504>
+<2020-05-20 20:13:11> yo stop being bad and breaking the rules
+<2020-05-20 20:13:11> yo stop being bad and breaking the rules
+<2020-05-20 20:13:11> yo stop being bad and breaking the rules
+<2020-05-20 20:13:11> yo stop being bad and breaking the rules
+<2020-05-20 20:13:12> yo stop being bad and breaking the rules
+<2020-05-20 20:13:12> yo stop being bad and breaking the rules
+<2020-05-20 20:13:12> yo stop being bad and breaking the rules
+<2020-05-20 20:13:12> yo stop being bad and breaking the rules
+<2020-05-20 20:13:12> yo stop being bad and breaking the rules
+<2020-05-20 20:13:12> yo stop being bad and breaking the rules
+<2020-05-20 20:13:17> yo stop being bad and breaking the rules
+<2020-05-20 20:13:17> yo stop being bad and breaking the rules
+<2020-05-20 20:13:17> yo stop being bad and breaking the rules
+<2020-05-20 20:13:17> yo stop being bad and breaking the rules
+<2020-05-20 20:13:18> yo stop being bad and breaking the rules
+<2020-05-20 20:13:18> yo stop being bad and breaking the rules
+<2020-05-20 20:13:18> yo stop being bad and breaking the rules
+<2020-05-20 20:13:18> yo stop being bad and breaking the rules
+<2020-05-20 20:13:18> yo stop being bad and breaking the rules
+<2020-05-20 20:13:19> yo stop being bad and breaking the rules
+<2020-05-20 20:13:24> yo stop being bad and breaking the rules
+<2020-05-20 20:13:24> yo stop being bad and breaking the rules
+<2020-05-20 20:13:24> yo stop being bad and breaking the rules
+<2020-05-20 20:13:24> yo stop being bad and breaking the rules
+<2020-05-20 20:13:25> yo stop being bad and breaking the rules
+<2020-05-20 20:13:25> yo stop being bad and breaking the rules
+<2020-05-20 20:13:25> yo stop being bad and breaking the rules
+<2020-05-20 20:13:25> yo stop being bad and breaking the rules
+<2020-05-20 20:13:25> yo stop being bad and breaking the rules
+<2020-05-20 20:13:25> yo stop being bad and breaking the rules
+<2020-05-20 20:13:30> yo stop being bad and breaking the rules
+<2020-05-20 20:13:30> yo stop being bad and breaking the rules
+<2020-05-20 20:13:31> yo stop being bad and breaking the rules
+<2020-05-20 20:13:31> yo stop being bad and breaking the rules
+<2020-05-20 20:13:32> yo stop being bad and breaking the rules
+<2020-05-20 20:13:32> yo stop being bad and breaking the rules
+<2020-05-20 20:13:32> yo stop being bad and breaking the rules
+<2020-05-20 20:13:32> yo stop being bad and breaking the rules
+<2020-05-20 20:13:32> yo stop being bad and breaking the rules
+<2020-05-20 20:13:32> yo stop being bad and breaking the rules
+<2020-05-20 20:13:36> yo stop being bad and breaking the rules
+<2020-05-20 20:13:36> yo stop being bad and breaking the rules
+<2020-05-20 20:13:36> yo stop being bad and breaking the rules
+<2020-05-20 20:13:36> yo stop being bad and breaking the rules
+<2020-05-20 20:13:36> yo stop being bad and breaking the rules
+<2020-05-20 20:13:36> yo stop being bad and breaking the rules
+<2020-05-20 20:13:37> yo stop being bad and breaking the rules
+<2020-05-20 20:13:37> yo stop being bad and breaking the rules
+<2020-05-20 20:13:37> yo stop being bad and breaking the rules
+<2020-05-20 20:13:37> yo stop being bad and breaking the rules
+<2020-05-20 20:13:42> yo stop being bad and breaking the rules
+<2020-05-20 20:13:42> yo stop being bad and breaking the rules
+<2020-05-20 20:13:42> yo stop being bad and breaking the rules
+<2020-05-20 20:13:42> yo stop being bad and breaking the rules
+<2020-05-20 20:13:43> yo stop being bad and breaking the rules
+<2020-05-20 20:13:43> yo stop being bad and breaking the rules
+<2020-05-20 20:13:43> yo stop being bad and breaking the rules
+<2020-05-20 20:13:43> yo stop being bad and breaking the rules
+<2020-05-20 20:13:43> yo stop being bad and breaking the rules
+<2020-05-20 20:13:43> yo stop being bad and breaking the rules
+<2020-05-20 20:13:48> yo stop being bad and breaking the rules
+<2020-05-20 20:13:48> yo stop being bad and breaking the rules
+<2020-05-20 20:13:48> yo stop being bad and breaking the rules
+<2020-05-20 20:13:48> yo stop being bad and breaking the rules
+<2020-05-20 20:13:49> yo stop being bad and breaking the rules
+<2020-05-20 20:13:49> yo stop being bad and breaking the rules
+<2020-05-20 20:13:49> yo stop being bad and breaking the rules
+<2020-05-20 20:13:49> yo stop being bad and breaking the rules
+<2020-05-20 20:13:49> yo stop being bad and breaking the rules
+<2020-05-20 20:13:50> yo stop being bad and breaking the rules
+<2020-05-20 20:13:54> yo stop being bad and breaking the rules
+<2020-05-20 20:13:54> yo stop being bad and breaking the rules
+<2020-05-20 20:13:54> yo stop being bad and breaking the rules
+<2020-05-20 20:13:54> yo stop being bad and breaking the rules
+<2020-05-20 20:13:56> yo stop being bad and breaking the rules
+<2020-05-20 20:13:57> yo stop being bad and breaking the rules
+<2020-05-20 20:13:57> yo stop being bad and breaking the rules
+<2020-05-20 20:13:57> yo stop being bad and breaking the rules
+<2020-05-20 20:13:57> yo stop being bad and breaking the rules
+<2020-05-20 20:13:57> yo stop being bad and breaking the rules
+<2020-05-20 20:14:00> yo stop being bad and breaking the rules
+<2020-05-20 20:14:00> yo stop being bad and breaking the rules
+<2020-05-20 20:14:00> yo stop being bad and breaking the rules
+<2020-05-20 20:14:00> yo stop being bad and breaking the rules
+<2020-05-20 20:14:00> yo stop being bad and breaking the rules
+<2020-05-20 20:14:01> yo stop being bad and breaking the rules
+<2020-05-20 20:14:01> yo stop being bad and breaking the rules
+<2020-05-20 20:14:01> yo stop being bad and breaking the rules
+<2020-05-20 20:14:01> yo stop being bad and breaking the rules
+<2020-05-20 20:14:01> yo stop being bad and breaking the rules
+<2020-05-20 20:14:07> yo stop being bad and breaking the rules
+<2020-05-20 20:14:07> yo stop being bad and breaking the rules
+<2020-05-20 20:14:07> yo stop being bad and breaking the rules
+<2020-05-20 20:14:07> yo stop being bad and breaking the rules
+<2020-05-20 20:14:07> yo stop being bad and breaking the rules
+<2020-05-20 20:14:07> yo stop being bad and breaking the rules
+<2020-05-20 20:14:07> yo stop being bad and breaking the rules
+<2020-05-20 20:14:07> yo stop being bad and breaking the rules
+<2020-05-20 20:14:07> yo stop being bad and breaking the rules
+<2020-05-20 20:14:07> yo stop being bad and breaking the rules
+<2020-05-20 20:14:12> yo stop being bad and breaking the rules
+<2020-05-20 20:14:12> yo stop being bad and breaking the rules
+<2020-05-20 20:14:12> yo stop being bad and breaking the rules
+<2020-05-20 20:14:12> yo stop being bad and breaking the rules
+<2020-05-20 20:14:12> yo stop being bad and breaking the rules
+<2020-05-20 20:14:12> yo stop being bad and breaking the rules
+<2020-05-20 20:14:12> yo stop being bad and breaking the rules
+<2020-05-20 20:14:12> yo stop being bad and breaking the rules
+<2020-05-20 20:14:17> yo stop being bad and breaking the rules
+<2020-05-20 20:14:17> yo stop being bad and breaking the rules
+<2020-05-20 20:14:17> yo stop being bad and breaking the rules
+<2020-05-20 20:14:18> yo stop being bad and breaking the rules
+<2020-05-20 20:14:18> yo stop being bad and breaking the rules
+<2020-05-20 20:14:18> yo stop being bad and breaking the rules
+<2020-05-20 20:14:18> yo stop being bad and breaking the rules
+<2020-05-20 20:14:19> yo stop being bad and breaking the rules
+<2020-05-20 20:14:19> yo stop being bad and breaking the rules
+<2020-05-20 20:14:19> yo stop being bad and breaking the rules
+<2020-05-20 20:14:23> yo stop being bad and breaking the rules
+<2020-05-20 20:14:23> yo stop being bad and breaking the rules
+<2020-05-20 20:14:24> yo stop being bad and breaking the rules
+<2020-05-20 20:14:26> yo stop being bad and breaking the rules
+<2020-05-20 20:14:26> yo stop being bad and breaking the rules
+<2020-05-20 20:14:26> yo stop being bad and breaking the rules
+<2020-05-20 20:14:27> yo stop being bad and breaking the rules
+<2020-05-20 20:14:27> yo stop being bad and breaking the rules
+<2020-05-20 20:14:27> yo stop being bad and breaking the rules
+<2020-05-20 20:14:29> yo stop being bad and breaking the rules
+<2020-05-20 20:14:30> yo stop being bad and breaking the rules
+<2020-05-20 20:14:30> yo stop being bad and breaking the rules
+<2020-05-20 20:14:30> yo stop being bad and breaking the rules
+<2020-05-20 20:14:30> yo stop being bad and breaking the rules
+<2020-05-20 20:14:30> yo stop being bad and breaking the rules
+<2020-05-20 20:14:30> yo stop being bad and breaking the rules
+<2020-05-20 20:14:30> yo stop being bad and breaking the rules
+<2020-05-20 20:14:30> yo stop being bad and breaking the rules
+<2020-05-20 20:14:31> yo stop being bad and breaking the rules
+<2020-05-20 20:14:36> yo stop being bad and breaking the rules
+<2020-05-20 20:14:36> yo stop being bad and breaking the rules
+<2020-05-20 20:14:37> yo stop being bad and breaking the rules
+<2020-05-20 20:14:37> yo stop being bad and breaking the rules
+<2020-05-20 20:14:37> yo stop being bad and breaking the rules
+<2020-05-20 20:14:37> yo stop being bad and breaking the rules
+<2020-05-20 20:14:37> yo stop being bad and breaking the rules
+<2020-05-20 20:14:37> yo stop being bad and breaking the rules
+<2020-05-20 20:14:38> yo stop being bad and breaking the rules
+<2020-05-20 20:14:38> yo stop being bad and breaking the rules
+<2020-05-20 20:14:42> yo stop being bad and breaking the rules
+<2020-05-20 20:14:42> yo stop being bad and breaking the rules
+<2020-05-20 20:14:42> yo stop being bad and breaking the rules
+<2020-05-20 20:14:42> yo stop being bad and breaking the rules
+<2020-05-20 20:14:42> yo stop being bad and breaking the rules
+<2020-05-20 20:14:42> yo stop being bad and breaking the rules
+<2020-05-20 20:14:42> yo stop being bad and breaking the rules
+<2020-05-20 20:14:42> yo stop being bad and breaking the rules
+<2020-05-20 20:14:43> yo stop being bad and breaking the rules
+<2020-05-20 20:14:43> yo stop being bad and breaking the rules
+<2020-05-21 21:01:39> 
+<2020-05-21 21:01:52> lol
+<2020-05-21 21:01:59> <@!508359442350342144>
+<2020-05-22 21:41:44> 
