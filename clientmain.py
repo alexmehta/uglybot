@@ -54,4 +54,4 @@ async def on_ready():
     print( platform.uname() )
     print( platform.java_ver() )
     print(discord.__version__)
-bot.run( 'NjAzNzczMzk2ODY5NzA5ODYx.XsXzIA.nEMzXkVTIAyJJJS73KdOWc1FiUM' )
+bot.run( 'NjAzNzczMzk2ODY5NzA5ODYx.XTkRyw.TBdY1AvwJW0dGy1lHJ4LG-MdwgU' )

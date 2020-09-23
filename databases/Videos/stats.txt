@@ -357,3 +357,42 @@ In embed.thumbnail.url: Not a well formed URL.
 <2020-05-21 21:01:52> lol
 <2020-05-21 21:01:59> <@!508359442350342144>
 <2020-05-22 21:41:44> 
+<2020-09-22 19:41:08> 
+<2020-09-22 19:41:11> ayy it worked
+<2020-09-22 19:41:17> <@!519333890926706688> i think my bot kinda works
+<2020-09-22 19:41:19> $help
+<2020-09-22 19:41:19> 
+<2020-09-22 19:41:19> API COMMANDS
+<2020-09-22 19:41:19> Joke, Panda, Dog
+<2020-09-22 19:41:19> 
+<2020-09-22 19:41:21> $rte
+<2020-09-22 19:41:21> https://cdn.discordapp.com/attachments/381963689470984203/473174040916525077/unknown.png
+<2020-09-22 19:41:30> $bigbucks
+<2020-09-22 19:41:42> $panda
+<2020-09-22 19:41:42> b'{"link":"https://i.imgur.com/Goe4isG.jpg"}'
+<2020-09-22 19:41:48> $dog
+<2020-09-22 19:41:48> {"fact":"Dogs' ears are extremely expressive. It's no wonder! There are more than a dozen separate muscles that control a dog's ear movements."}
+<2020-09-22 19:41:49> $joke
+<2020-09-22 19:42:02> $modhelp
+<2020-09-22 19:42:02> 
+<2020-09-22 19:42:06> $nickchange test
+<2020-09-22 19:42:07> changing Alex999 nickname on server to test
+<2020-09-22 19:45:58> $panda
+<2020-09-22 19:45:58> b'{"link":"https://i.imgur.com/Zmd8wQ9.jpg"}'
+<2020-09-22 19:46:08> <@!372189580968853504> get it verified
+<2020-09-22 19:46:10> the bot
+<2020-09-22 19:46:20> so that itll get u this cool lookin profile badge
+<2020-09-22 19:48:00> how do i get it verified i think i need to be 18
+<2020-09-22 19:48:55> I need my bot in 75 servers
+<2020-09-22 19:49:32> create 75 fake servers
+<2020-09-22 19:49:33> :D
+<2020-09-22 19:49:39> lol
+<2020-09-22 19:49:41> or use an alt
+<2020-09-22 19:49:41> lol they have to review my bot
+<2020-09-22 19:49:42> XD
+<2020-09-22 19:49:54> it kinda isn't that tos because it legit can download youtube videos
+<2020-09-22 19:50:02> really
+<2020-09-22 19:50:06> yea
+<2020-09-22 19:50:14> as long as video below 8mb
+<2020-09-22 19:50:19> i-
+<2020-09-22 19:50:21> lmaoooooooooooo

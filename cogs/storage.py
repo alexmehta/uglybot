@@ -38,14 +38,14 @@ class Jokes( commands.Cog ):
 
         import youtube_dl
         import os
-        os.chdir( r'F:\the desktop\UglyBot(new)\databases\Videos' )
-        ydl_opts = {'outtmpl': r'F:\the desktop\UglyBot(new)\databases\Videos\video1.mp4',
+        os.chdir( r'databases\Videos' )
+        ydl_opts = {'outtmpl': r'databases\Videos\video1.mp4',
                     'format': 'worst',
                     'noplaylist': True }
         with youtube_dl.YoutubeDL( ydl_opts ) as ydl:
             ydl.download( [url] )
-        await ctx.send( file=discord.File( r'F:\the desktop\UglyBot(new)\databases\Videos\video1.mp4' ) )
-        os.remove(r'F:\the desktop\UglyBot(new)\databases\Videos\video1.mp4')
+        await ctx.send( file=discord.File( r'databases\Videos\video1.mp4' ) )
+        os.remove(r'\databases\Videos\video1.mp4')
 
 
 

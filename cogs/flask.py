@@ -28,15 +28,13 @@ class flask( commands.Cog ):
         await ctx.message.author.edit( nick=a )
     @commands.command()
     async def pfp(self,ctx, member: discord.Member ):
-        profile_location= r"F:\the desktop\UglyBot(new)\databases\profile\pfp.png"
+        profile_location= r"databases\profile\pfp.png"
         file2=profile_location
         member.avatar_url_as( format="png" ).save( fp=profile_location )
         await ctx.send(f'{member} profile picture')
         await ctx.send(file=discord.File(profile_location))
     @commands.command()
     async def userinfo(self,ctx,member:discord.Member):
-        await member.send(
-            'someone has requested your info, although this is public, we like to let users know as we belive it is there right')
         discord_user_id = member.id
         discord_user_age = member.created_at
         embed = discord.Embed(title="USER INFO", description=f"User Info For {member}:", color=0xeee657)
@@ -44,7 +42,7 @@ class flask( commands.Cog ):
         embed.add_field(name="Account Created At", value=discord_user_age,inline=False)
         embed.add_field(name="Account Type", value='User Account', inline=False)
         await ctx.send(embed=embed)
-        profile_location = r"F:\the desktop\UglyBot(new)\databases\profile\pfp.png"
+        profile_location = r"databases\profile\pfp.png"
         file2 = profile_location
         member.avatar_url_as( format="png" ).save( fp=profile_location )
         await ctx.send( f'{member} profile picture' )
